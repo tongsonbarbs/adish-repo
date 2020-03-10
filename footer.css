@@ -1,0 +1,17 @@
+:root {
+    --transparent: rgba(255, 255, 255, 0);
+    --white: #ffffff;
+    --black: #181818;
+    --orange: #F47317;
+    --blue: #17ADF4;
+    --dark: #757575;
+    --alternatebg: #ebebeb;
+    --navshadow: 0 3px 5px 0 rgba(0,0,0,.2);
+}
+
+
+.adish-footer {
+    width: 100%;
+    height: 200px;
+    background-color: var(--black);
+}

@@ -1,0 +1,445 @@
+
+.adish-header-container {
+    background-image: linear-gradient(to bottom, rgba(231, 235, 253, 0.52), rgba(68, 227, 255, 0.73)), url('Your-Career.JPG');
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 110vh;
+    text-align: center;
+    padding-top: 35vh;
+}
+
+.adish-header-title-container {
+    text-align: center;
+    width: 100%;
+    height: 0 auto;
+    opacity: 1;
+}
+
+.adish-header-title {
+    display: block;
+    font-family: 'Lato', sans-serif;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-size: 15vh;
+    letter-spacing: .2px;
+    font-weight: 600;
+}
+
+.adish-header-mini-title {
+    font-family: 'Lato', sans-serif;
+    color: #ffffff;
+    text-transform: capitalize;
+    font-size:4vh;
+    margin-top: -3vh;
+    letter-spacing: .2em;
+    font-weight: 500;   
+}
+
+.arrow-down-container {
+    position: absolute;
+    width: 90px;
+    height: 50px;
+    bottom: 120px;
+    left:50%;
+    margin-left:-45px;
+    -webkit-animation: arrowUpDown .7s infinite  alternate;
+    animation: arrowUpDown .7s infinite  alternate;
+    cursor: pointer;
+    z-index: 999999;
+}
+
+@keyframes arrowUpDown {
+    0% { transform: translateY(0); }
+    100% { transform: translateY(-20px); }
+}
+
+.arrow-side-a {
+    display: inline-block;
+    width: 40px;
+    height: 5px;
+    background-color: #ffffff;
+    transform: rotate(45deg);
+    border-radius: 5px;
+}
+
+.arrow-side-b {
+    display: inline-block;
+    width: 40px;
+    height: 5px;
+    background-color: #ffffff;
+    transform: rotate(-45deg);
+    border-radius: 5px;
+    margin-left: -19px;
+}
+
+
+/* CUSTOMER SUPPORT START HERE */
+
+
+.solution-main-container {
+    text-align: center;
+    margin-left: 5%;
+    z-index: 5;
+    margin-top: -50px;
+    width: 90%;
+    background-color: white;
+    box-shadow: 0px 2px 5px 0.5px #e8e8e8;
+    padding:50px 0 50px 0;
+    height: 0 auto;
+    border-radius: 5px;
+    position: relative;
+    overflow: hidden;
+}
+
+.solution-container {
+    display: inline-block;
+    text-align: center;
+    border: 2px solid #d4d4d4;
+    width: 345px;
+    height: 365px;
+    margin: 20px;
+    padding-top: 50px;
+    border-radius: 5px;
+    transition: .5s;
+    cursor: pointer;
+}
+
+.solution-container:hover {
+    background-color: #f5f5f5;
+}
+
+.solution-title {
+    margin-top: 60px;
+    font-size: 20px;
+    color: #757575;
+}
+
+
+
+
+
+
+
+
+
+.CS-SSM-title-container {
+    margin-top: 16px;
+    text-align: center;
+    height: 100px;
+    padding:20px;
+}
+
+
+.CS-SSM-title {
+    color: #757575;
+    font-size: 2.5rem;
+    font-weight: 600;
+}
+
+.CS-SSM-content-container {
+    text-align: center;
+}
+
+.CS-SSM-content-block-container {
+    display: inline-block;
+    width: 100%;
+    height: 0 auto;
+    background-color: #ffff;
+    padding: 30px;
+    margin-top: 3px;
+}
+
+.CS-SSM-content-text-container {
+    margin-top: 90px;
+    display: inline-block;
+    width: 500px;
+}
+
+.CS-SSM-content-info {
+    padding: 10px;
+    color: #757575;
+    font-size: 1.3rem;
+    line-height: 1.5em;
+    text-align: center;
+}
+
+.CS-SSM-content-title {
+    font-size: 2rem;
+    color: #757575;
+    font-weight: 600;
+    text-align: center;
+}
+
+.CS-SSM-img {
+    float: left;
+    width: 70vh;
+    margin-left: 120px;
+}
+
+.CS-SSM-img2 {
+    float: right;
+    width: 70vh;
+    margin-right: 120px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.CSS-support-container {
+    width: 80%;
+    margin-left: 10%;
+    background-color: #ffffff;
+    margin-top: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 2px 5px 0.5px #e8e8e8;
+    height: 220px;
+    padding: 20px;
+    text-align: center;
+}
+
+.CSS-support-img {
+    float: left;
+}
+
+.CSS-support-img2 {
+    float: right;
+}
+
+.CSS-support-content {
+    display: inline-block;
+    width: 800px;
+    padding-left: 50px;
+    margin-top: 18px;
+    border-left: 2px solid #d4d4d4;
+}
+
+.CSS-support-content2 {
+    display: inline-block;
+    width: 800px;
+    padding-right: 50px;
+    margin-top: 18px;
+    border-right: 2px solid #d4d4d4;
+}
+
+.CSS-support-content-info {
+    font-size: 1.2rem;
+    color: #757575;
+    font-weight: 400;
+    text-align: left;
+}
+
+.CSS-support-content-info2 {
+    font-size: 1.2rem;
+    color: #757575;
+    font-weight: 400;
+    text-align: right;
+}
+
+.CSS-support-content-title {
+    font-size: 1.5rem;
+    color: #757575;
+    font-weight: 500;
+    text-align: left;
+}
+
+.CSS-support-content-title2 {
+    font-size: 1.5rem;
+    color: #757575;
+    font-weight: 500;
+    text-align: right;
+}
+
+/* CUSTOMER SUPPORT END HERE */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* SOCIAL MEDIA MANAGEMENT START HERE */
+
+
+.CS-SSM-content-block-container2 {
+    display: inline-block;
+    width: 100%;
+    height: 0 auto;
+    background-color: var(--color1);
+    padding: 30px;
+    margin-top: 3px;
+}
+
+.CSS-support-container2 {
+    width: 80%;
+    margin-left: 10%;
+    background-color: #ffffff;
+    margin-top: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 2px 5px 0.5px #e8e8e8;
+    height: 240px;
+    padding: 20px;
+    text-align: center;
+}
+
+/* SOCIAL MEDIA MANAGEMENT END HERE */
+
+
+
+
+
+
+
+
+
+
+
+
+/* WHY CHOOSE ADISH START HERE  */
+
+.why-container {
+    text-align: center;
+    margin-top: 50px;
+    width: 50%;
+    float: left;
+    padding-left: 185px;
+}
+
+.why-container2 {
+    text-align: center;
+    margin-top: 50px;
+    width: 50%;
+    float: right;
+    padding-right: 185px;
+}
+
+.why-content-container {
+    display: inline-block;
+    background-color: #ffff;
+    border-radius: 5px;
+    width: 100%;
+    max-width: 450px;
+    padding: 30px;
+    margin: 20px;
+    height: 230px;
+}
+
+.why-content-title {
+    color: #757575;
+    font-weight: 500;
+    font-size: 2rem;
+}
+
+.why-content-info {
+    color: #757575;
+    font-weight: 400;
+    font-size: 1.3rem;
+    line-height: 1.5em;
+}
+
+
+
+/* WHY CHOOSE ADISH END HERE  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* KIND WORDS START HERE  */
+
+
+
+
+
+/* KIND WORDS END HERE  */
+
+
+
+
+
+
+
+
+
+.adish-space {
+    width: 100%;
+    height: 56px;
+}
+
+.adish-section-185 {
+    width: 100%;
+    height: 185vh;
+}
+
+.adish-section-265 {
+    width: 100%;
+    height: 265vh;
+}
+
+
+.adish-section-110 {
+    width: 100%;
+    height: 110vh;
+    background-color: #F47317;
+    margin-top: 40px;
+}
+
+.adish-section-110-white {
+    width: 100%;
+    height: 110vh;
+    margin-top: 20px;
+}
+
+.learn-more-button {
+    background-color: #ffffff;
+    width: 200px;
+    text-align: center;
+    height: 50px;
+    padding-top: 12px;
+    color: #F47317;
+    border-radius: 25px;
+    font-weight: 600;
+    border: 2px solid #F47317;
+    left: 50%;
+    margin-left: -100px;
+    margin-top: 30px;
+    position: relative;
+    transition: 0.3s;
+}
+
+.learn-more-button:hover {
+    background-color: #F47317;
+    color: #ffffff;
+}
