@@ -11,6 +11,7 @@
     900i&display=swap&subset=latin-ext" rel="stylesheet">
     
     <title>adish International Corp.</title>
+    <?php wp_head()?>
 
 </head>
 <body>
