@@ -9,21 +9,7 @@
 
     <link href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,
     900i&display=swap&subset=latin-ext" rel="stylesheet">
-
-    <!-- CSS LIST START -->
-    <link href="header.css" rel="stylesheet">
-    <link href="style.css" rel="stylesheet">
-    <link href="footer.css" rel="stylesheet">
-    <link href="solutions.css" rel="stylesheet">
-    <link href="style-mobile.css" rel="stylesheet">
-
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/bootstrap.css" rel="stylesheet">
-
-    <link href="animation/aos.css" rel="stylesheet">
-    <link href="animation/animate.min.css" rel="stylesheet">
-    <!-- CSS LIST END --> 
-
+    
     <title>adish International Corp.</title>
 
 </head>
