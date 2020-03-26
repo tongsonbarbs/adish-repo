@@ -33,11 +33,11 @@
         </div>
 
         <ul class="nav-choice-container2" id="nav-choice-container2">
-            <a href="#"><li class="nav-choice2 animated bounceIn" onmouseover="hover(this)" onmouseout="hoverOff(this)">Solutions</li></a>
-            <a href="#"><li class="nav-choice2 animated bounceIn" onmouseover="hover(this)" onmouseout="hoverOff(this)">Careers</li></a>
-            <a href="#"><li class="nav-choice2 animated bounceIn" onmouseover="hover(this)" onmouseout="hoverOff(this)">Blog</li></a>
-            <a href="#"><li class="nav-choice2 animated bounceIn" onmouseover="hover(this)" onmouseout="hoverOff(this)">About Us</li></a>
-            <a href="#"><li class="nav-choice2 animated bounceIn" onmouseover="hover(this)" onmouseout="hoverOff(this)">Contact Us</li></a>
+            <a href="solutions"><li class="nav-choice2 animated bounceIn" onmouseover="hover(this)" onmouseout="hoverOff(this)">Solutions</li></a>
+            <a href="careers"><li class="nav-choice2 animated bounceIn" onmouseover="hover(this)" onmouseout="hoverOff(this)">Careers</li></a>
+            <a href="blogs"><li class="nav-choice2 animated bounceIn" onmouseover="hover(this)" onmouseout="hoverOff(this)">Blog</li></a>
+            <a href="about-us"><li class="nav-choice2 animated bounceIn" onmouseover="hover(this)" onmouseout="hoverOff(this)">About Us</li></a>
+            <a href="contact-us"><li class="nav-choice2 animated bounceIn" onmouseover="hover(this)" onmouseout="hoverOff(this)">Contact Us</li></a>
         </ul>
 
     </div>
