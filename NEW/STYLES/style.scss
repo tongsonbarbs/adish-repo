@@ -1,0 +1,18 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #ebebeb;
+    font-family: 'Lato', sans-serif;
+}
+
+@import './mixin';
+@import './slider';
+@import './home';
+@import './about';
+@import './solution';
+@import './gdpr';
+@import './privacy';
