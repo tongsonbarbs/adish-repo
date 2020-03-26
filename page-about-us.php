@@ -1,4 +1,7 @@
-<?php /* Template Name: page-about-us */ ?>
+<?php /* Template Name: page-about-us */
+get_header();
+ ?>
+<
 <section class="header">
           <p class="title">ABOUT US</p>
           <p class="subtitle">"Lorem ipsum dolor sit amet"</p>
@@ -12,6 +15,7 @@
 
           
         </section>
+<?php get_footer(); ?>
 
 
 
