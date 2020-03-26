@@ -1,2 +1,14 @@
 <?php /* Template Name: page-careers */ ?>
-<h1>TEST CAREERS</h1>
+<section class="header">
+          <p class="title">CAREERS</p>
+          <p class="subtitle">"Lorem ipsum dolor sit amet"</p>
+
+          <a href="#">
+            <div class="arrow-container">
+              <div class="left-line"></div>
+              <div class="right-line"></div>
+            </div>
+          </a>
+
+          
+        </section>
