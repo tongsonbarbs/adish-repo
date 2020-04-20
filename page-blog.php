@@ -1,7 +1,9 @@
-<?php /* Template Name: page-blog */ ?>
 
-
-        <section class="header">
+<?php /* Template Name: page-blog */ 
+get_header();
+?>
+<section class="header">
+>>>>>>> 328b49f9b7c39b8d2086d497a69aa636478f9bfb
           <p class="title">BLOGS</p>
           <p class="subtitle">"Lorem ipsum dolor sit amet"</p>
 
@@ -14,6 +16,7 @@
 
           
         </section>
+<<<<<<< HEAD
 
 
 
@@ -158,4 +161,4 @@
 
 
 
-
+        <?php  get_footer(); ?>

@@ -1,5 +1,8 @@
-<?php /* Template Name: page-contact-us */ ?>
+<?php /* Template Name: page-contact-us */ 
+get_header();
+?>
 <section class="header">
+
 
 <p class="title">CONTACT US</p>
 <p class="subtitle">"Lorem ipsum dolor sit amet"</p>
@@ -68,3 +71,4 @@
 
 
 
+<?php get_footer(); ?>

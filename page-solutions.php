@@ -1,4 +1,6 @@
-<?php /* Template Name: page-solutions */ ?>
+<?php /* Template Name: page-solutions */ 
+get_header();
+?>
 <section class="header">
           <p class="title">SOLUTIONS</p>
           <p class="subtitle">"Lorem ipsum dolor sit amet"</p>
@@ -160,3 +162,4 @@
 
         </div>
       </section>
+<?php get_footer(); ?>

@@ -1,7 +1,8 @@
-<?php /* Template Name: page-careers */ ?>
 
-
-        <section class="header">
+<?php /* Template Name: page-careers */ 
+get_header();
+?>
+<section class="header">
           <p class="title">CAREERS</p>
           <p class="subtitle">"Lorem ipsum dolor sit amet"</p>
 
@@ -14,6 +15,7 @@
 
           
         </section>
+<<<<<<< HEAD
 
 
 
@@ -353,4 +355,4 @@
 
         </section>
 
-
+        <?php get_footer(); ?>
